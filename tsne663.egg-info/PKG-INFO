@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: tsne663
-Version: 0.1
+Version: 0.2
 Summary: Implentation of the t-SNE algorithm for dimension reduction
 Home-page: https://github.com/robkravec/tsne663
 Author: Marc Brooks, Rob Kravec, Steven Winter

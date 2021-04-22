@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='tsne663',
-      version='0.1',
+      version='0.2',
       description='Implentation of the t-SNE algorithm for dimension reduction',
       url='https://github.com/robkravec/tsne663',
       author='Marc Brooks, Rob Kravec, Steven Winter',

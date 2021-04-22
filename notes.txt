@@ -1,0 +1,6 @@
+Steps for publishing package:
+
+* Make any desired changes to the package
+* Change package version number in setup.py
+* Run "python3 -m build"
+* Run "twine upload --skip-existing --repository-url https://test.pypi.org/legacy/ dist/*"
