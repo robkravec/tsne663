@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name='tsne663',
       version='0.1',
@@ -7,6 +7,6 @@ setup(name='tsne663',
       author='Marc Brooks, Rob Kravec, Steven Winter',
       author_email='marc.brooks@duke.edu, robert.kravec@duke.edu, steven.winter@duke.edu',
       license='MIT',
-      packages=setuptools.find_packages(), 
+      packages=find_packages(), 
       install_requires = ['<matplotlib>', '<numpy>', '<numba>', '<tqdm>', '<sklearn>'],
       py_modules = ['tsne', 'sim'])
