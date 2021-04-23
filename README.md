@@ -14,5 +14,5 @@ The `tsne663` package contains functions to (1) implement t-SNE and (2) test / v
 
 - `tsne`: Takes in data matrix (and several optional arguments) and returns low-dimensional representation of data matrix with values stored at each iteration
 - `make_two_blobs`, `make_parallel_lines`, `make_two_3d_circles`, `make_trefoil_knot`, `make_springs`: Generate data (according to optional arguments) that are well suited to showcase t-SNE's ability to separate clusters
-- `perp_plots`, `step_plots`: Creates panel plots of t-SNE performed on a single dataset for a set of specified perplexity values or iteration numbers
+- `perp_plots`, `step_plots`: Creates plots of t-SNE performed on a single dataset for a set of specified perplexity values or iteration numbers
 - `compare_plots`: Creates grid of plots to showcase t-SNE's performance on multiple datasets across a range of perplexity values or iteration numbers
