@@ -1,6 +1,7 @@
 # STA 663 Final Project (t-SNE)
 
 Reference paper: "Visualizing Data using t-SNE" by Laurens van der Maaten and Geoffrey Hinton
+
 Contributors: Marc Brooks, Rob Kravec, Steven Winter
 
 ## Description
